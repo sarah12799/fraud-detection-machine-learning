@@ -7,6 +7,7 @@ It aims to identify suspicious behavior through **feature engineering**, **data 
 ---
 
 ## 📁 Project Structure
+```
 notebooks/
 ├── 1_tabular_random_forest.ipynb
 ├── 2_graph_random_forest.ipynb
@@ -17,7 +18,7 @@ data/
 └── (not included — due to size, hosted externally)
 
 
----
+```
 
 ## ⚙️ Workflow Summary
 
